@@ -6822,18 +6822,6 @@
 		(uuid "1afbc11f-7325-4a2e-9996-aeefe5906901")
 	)
 	(rectangle
-		(start 266.7 363.22)
-		(end 406.4 403.86)
-		(stroke
-			(width 0.254)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "36fc9bc9-d960-4803-95ed-7a96099f2f61")
-	)
-	(rectangle
 		(start 431.8 129.54)
 		(end 579.12 292.1)
 		(stroke
@@ -7056,18 +7044,6 @@
 			(justify left top)
 		)
 		(uuid "9831da68-bd35-4e83-ac56-2c6d104d385b")
-	)
-	(text "H. MEKANIK & CATATAN DESAIN"
-		(exclude_from_sim no)
-		(at 269.24 365.76 0)
-		(effects
-			(font
-				(size 1.8 1.8)
-				(bold yes)
-			)
-			(justify left top)
-		)
-		(uuid "b1c89b2b-bae5-46fd-9c45-45793bd4b51d")
 	)
 	(text "Pin 26PCDFA6D (SIP-4, 2.54mm, 30 psi wet-wet, max 60 psi):\n1:+Vs (+3V3)  2:+Vout  3:-Vs (GND)  4:-Vout\nFilter RC TI: 1k/1k, Cdiff=100nF, Ccm=10nF\nMode ADC: Ratiometric REFP=+3V3, PGA 64/128, 20 SPS"
 		(exclude_from_sim no)
