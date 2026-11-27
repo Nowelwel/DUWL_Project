@@ -1,0 +1,52 @@
+Ref,Jumlah,Nilai,Footprint
+BT1,1,CR2032,Battery:BatteryHolder_Keystone_3034_1x20mm
+BZ1,1,Buzzer 5V,Buzzer_Beeper:Buzzer_12x9.5RM7.6
+C1,1,470uF 25V,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm
+C2 C4 C6 C7 C8 C9 C10 C11 C12 C13 C14 C15 C16 C17 C18 C19,16,100nF,Capacitor_SMD:C_0805_2012Metric
+C3,1,100uF 16V,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+C5,1,100uF 10V,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+C20 C21 C22 C23,4,1uF,Capacitor_SMD:C_0805_2012Metric
+D1,1,SS34,Diode_SMD:D_SMA
+D2,1,SMBJ15A,Diode_SMD:D_SMB
+D3 D9 D10 D11 D12,5,SS14,Diode_SMD:D_SMA
+D4,1,LED 5V,LED_SMD:LED_0805_2012Metric
+D5,1,LED 3V3,LED_SMD:LED_0805_2012Metric
+D7,1,WS2812B,LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+D8 D13 D14 D15 D16,5,1N4148W,Diode_SMD:D_SOD-123
+F1,1,2A 30V,Fuse:Fuse_1812_4532Metric
+H1 H2 H3 H4,4,M3,MountingHole:MountingHole_3.2mm_M3
+J1,1,12V DC IN,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+J2,1,WIFI/BLE UART,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical
+J3,1,LED PANEL,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+J4,1,TOMBOL EXT,Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical
+J5,1,DS18B20 SUHU,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+J6,1,SLF3S-4000B,Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical
+J7,1,I2C EXT / OLED,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
+J8,1,PT1 SUPLAI,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+J9,1,PT2 MANIFOLD,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+J10,1,PT3 FASE 2,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+J11,1,KATUP V1,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+J12,1,KATUP V2,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+J13,1,KATUP V3,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+J14,1,KATUP V4,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+J15,1,SOLENOID 1,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+J16,1,SOLENOID 2,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+J17,1,SOLENOID 3,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+J18,1,SOLENOID 4,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+M1,1,BUCK 12V-5V (2A),Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical
+M2,1,BUCK 12V-3.3V (1A),Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical
+Q1,1,2N7002,Package_TO_SOT_SMD:SOT-23
+Q2 Q3 Q4 Q5,4,AO3400A,Package_TO_SOT_SMD:SOT-23
+R1 R2 R13 R16 R19 R22,6,1k,Resistor_SMD:R_0805_2012Metric
+R3,1,330R,Resistor_SMD:R_0805_2012Metric
+R4 R10 R11 R14 R17 R20 R32 R34 R36 R38,10,10k,Resistor_SMD:R_0805_2012Metric
+R5 R23 R25 R27 R29,5,100R,Resistor_SMD:R_0805_2012Metric
+R6 R24 R26 R28 R30,5,100k,Resistor_SMD:R_0805_2012Metric
+R7 R8 R9,3,4.7k,Resistor_SMD:R_0805_2012Metric
+R12 R15 R18 R21,4,20k,Resistor_SMD:R_0805_2012Metric
+R31 R33 R35 R37,4,4.7k,Resistor_SMD:R_1206_3216Metric
+SW1,1,CEK MANUAL,Button_Switch_SMD:SW_SPST_PTS645
+U1,1,NUCLEO-L432KC,Module:Arduino_Nano
+U2,1,ADS1115IDGS,Package_SO:TSSOP-10_3x3mm_P0.5mm
+U3,1,DS3231SN,Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm
+U4 U5 U6 U7,4,PC817,Package_DIP:DIP-4_W7.62mm
