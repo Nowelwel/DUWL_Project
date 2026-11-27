@@ -225,7 +225,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "B (12V Buck + STM32L4)"
+      "sch_revision": "C (12V Buck + STM32L4 + 26PC/ADS122C04)"
     },
     "layer_pairs": [],
     "layer_presets": [],
